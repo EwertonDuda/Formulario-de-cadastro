@@ -12,6 +12,3 @@
   <img src = "_src/to_readme/form-three.png"/>
 </div>
 
-<div align = "center">
-  <img src = "_src/to_readme/form-for.png"/>
-</div>
